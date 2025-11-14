@@ -1,0 +1,11 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 209 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.0.187:3000/
+8:45:12 AM [vite] ✨ new dependencies optimized: swiper/react, swiper/modules
+8:45:12 AM [vite] ✨ optimized dependencies changed. reloading
